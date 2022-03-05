@@ -1,0 +1,370 @@
+"LEVEL3_NAM","LEVEL3_COD","LEVEL2_COD","LEVEL1_COD"
+"Alberta","ABT",71,7
+"Afghanistan","AFG",34,3
+"Argentina Northeast","AGE",85,8
+"Argentina South","AGS",85,8
+"Argentina Northwest","AGW",85,8
+"Alabama","ALA",78,7
+"Albania","ALB",13,1
+"Aldabra","ALD",29,2
+"Algeria","ALG",20,2
+"Altay","ALT",30,3
+"Aleutian Is.","ALU",70,7
+"Amur","AMU",31,3
+NA,"MAG",41,4
+"Angola","ANG",26,2
+"Antarctica","ANT",91,9
+"Arizona","ARI",76,7
+"Arkansas","ARK",78,7
+"Aruba","ARU",81,8
+"Ascension","ASC",28,2
+"Alaska","ASK",70,7
+"Amsterdam-St.Paul Is.","ASP",90,9
+"Assam","ASS",40,4
+"Antipodean Is.","ATP",51,5
+"Austria","AUT",11,1
+"Azores","AZO",21,2
+"Bahamas","BAH",81,8
+"Baleares","BAL",12,1
+"Bangladesh","BAN",40,4
+"Benin","BEN",22,2
+"Bermuda","BER",81,8
+"Belgium","BGM",11,1
+"Bismarck Archipelago","BIS",43,4
+"Burkina","BKN",22,2
+"Belarus","BLR",14,1
+"Baltic States","BLT",14,1
+"Belize","BLZ",80,8
+"Bolivia","BOL",83,8
+"Borneo","BOR",42,4
+"Botswana","BOT",27,2
+"Bouvet I.","BOU",90,9
+"British Columbia","BRC",71,7
+"Buryatiya","BRY",30,3
+"Bulgaria","BUL",13,1
+"Burundi","BUR",23,2
+"Brazil West-Central","BZC",84,8
+"Brazil Northeast","BZE",84,8
+"Brazil Southeast","BZL",84,8
+"Brazil North","BZN",84,8
+"Brazil South","BZS",84,8
+"Cabinda","CAB",23,2
+"Central African Republic","CAF",23,2
+"California","CAL",76,7
+"Cayman Is.","CAY",81,8
+"Cambodia","CBD",41,4
+"Chagos Archipelago","CGS",29,2
+"Chad","CHA",24,2
+"China South-Central","CHC",36,3
+"Hainan","CHH",36,3
+"Inner Mongolia","CHI",36,3
+"Manchuria","CHM",36,3
+"China North-Central","CHN",36,3
+"Qinghai","CHQ",36,3
+"China Southeast","CHS",36,3
+"Tibet","CHT",36,3
+"Xinjiang","CHX",36,3
+"Cocos (Keeling) I.","CKI",42,4
+"Chile Central","CLC",85,8
+"Colombia","CLM",83,8
+"Chile North","CLN",85,8
+"Chile South","CLS",85,8
+"Cameroon","CMN",23,2
+"Connecticut","CNT",75,7
+"Canary Is.","CNY",21,2
+"Colorado","COL",73,7
+"Comoros","COM",29,2
+"Congo","CON",23,2
+"Cook Is.","COO",61,6
+"Corse","COR",12,1
+"Costa Rica","COS",80,8
+"C. American Pacific Is.","CPI",80,8
+"Cape Provinces","CPP",27,2
+"Caprivi Strip","CPV",27,2
+"Caroline Is.","CRL",62,6
+"Crozet Is.","CRZ",90,9
+"Chita","CTA",30,3
+"Chatham Is.","CTM",51,5
+"Cuba","CUB",81,8
+"Cape Verde","CVI",21,2
+"Cyprus","CYP",34,3
+"Czechoslovakia","CZE",11,1
+"Delaware","DEL",78,7
+"Denmark","DEN",10,1
+"Djibouti","DJI",24,2
+"Dominican Republic","DOM",81,8
+"Desventurados Is.","DSV",85,8
+"East Aegean Is.","EAI",34,3
+"Easter Is.","EAS",61,6
+"Ecuador","ECU",83,8
+"Egypt","EGY",20,2
+"East Himalaya","EHM",40,4
+"El Salvador","ELS",80,8
+"Equatorial Guinea","EQG",23,2
+"Eritrea","ERI",24,2
+"Ethiopia","ETH",24,2
+"Falkland Is.","FAL",90,9
+"Fiji","FIJ",60,6
+"Finland","FIN",10,1
+"Florida","FLA",78,7
+"Føroyar","FOR",10,1
+"France","FRA",12,1
+"French Guiana","FRG",82,8
+"Gabon","GAB",23,2
+"Galápagos","GAL",83,8
+"Gambia, The","GAM",22,2
+"Georgia","GEO",78,7
+"Germany","GER",11,1
+"Gulf of Guinea Is.","GGI",23,2
+"Ghana","GHA",22,2
+"Gilbert Is.","GIL",60,6
+"Guinea-Bissau","GNB",22,2
+"Greenland","GNL",70,7
+"Great Britain","GRB",10,1
+"Greece","GRC",13,1
+"Gulf States","GST",35,3
+"Guatemala","GUA",80,8
+"Guinea","GUI",22,2
+"Guyana","GUY",82,8
+"Haiti","HAI",81,8
+"Hawaii","HAW",63,6
+"Howland-Baker Is.","HBI",60,6
+"Heard-McDonald Is.","HMD",90,9
+"Honduras","HON",80,8
+"Hungary","HUN",11,1
+"Iceland","ICE",10,1
+"Idaho","IDA",73,7
+"Illinois","ILL",74,7
+"India","IND",40,4
+"Indiana","INI",75,7
+"Iowa","IOW",74,7
+"Ireland","IRE",10,1
+"Irkutsk","IRK",30,3
+"Iran","IRN",34,3
+"Iraq","IRQ",34,3
+"Italy","ITA",13,1
+"Ivory Coast","IVO",22,2
+"Jamaica","JAM",81,8
+"Japan","JAP",38,3
+"Jawa","JAW",42,4
+"Juan Fernández Is.","JNF",85,8
+"Kamchatka","KAM",31,3
+"Kansas","KAN",74,7
+"Kazakhstan","KAZ",32,3
+"Kerguelen","KEG",90,9
+"Kenya","KEN",25,2
+"Kermadec Is.","KER",51,5
+"Kirgizistan","KGZ",32,3
+"Khabarovsk","KHA",31,3
+"Korea","KOR",38,3
+"Krasnoyarsk","KRA",30,3
+"Kriti","KRI",13,1
+"Krym","KRY",14,1
+"Kentucky","KTY",78,7
+"Kuril Is.","KUR",31,3
+"Kuwait","KUW",35,3
+"Kazan-retto","KZN",38,3
+"Labrador","LAB",72,7
+"Laos","LAO",41,4
+"Liberia","LBR",22,2
+"Lebanon-Syria","LBS",34,3
+"Libya","LBY",20,2
+"Laccadive Is.","LDV",40,4
+"Leeward Is. AB Ant","LEE",81,8
+"Lesotho","LES",27,2
+"Line Is.","LIN",61,6
+"Louisiana","LOU",78,7
+"Lesser Sunda Is.","LSI",42,4
+"Magadan","MAG",31,3
+"Maine","MAI",75,7
+"Manitoba","MAN",71,7
+"Macquarie Is.","MAQ",90,9
+"Massachusetts","MAS",75,7
+"Mauritius","MAU",29,2
+"Mozambique Channel Is.","MCI",29,2
+"Marcus I.","MCS",62,6
+"Madagascar","MDG",29,2
+"Madeira","MDR",21,2
+"Maldives","MDV",40,4
+"Michigan","MIC",75,7
+"Minnesota","MIN",74,7
+"Mali","MLI",22,2
+"Malawi","MLW",26,2
+"Malaya","MLY",42,4
+"Montana","MNT",73,7
+"Maluku","MOL",42,4
+"Mongolia","MON",37,3
+"Morocco","MOR",20,2
+"Mozambique","MOZ",26,2
+"Marion-Prince Edward Is.","MPE",90,9
+"Marianas","MRN",62,6
+"Marquesas","MRQ",61,6
+"Marshall Is.","MRS",62,6
+"Maryland","MRY",78,7
+"Mississippi","MSI",78,7
+"Missouri","MSO",74,7
+"Mauritania","MTN",22,2
+"Mexico Central","MXC",79,7
+"Mexico Northeast","MXE",79,7
+"Mexico Gulf","MXG",79,7
+"Mexican Pacific Is.","MXI",79,7
+"Mexico Northwest","MXN",79,7
+"Mexico Southwest","MXS",79,7
+"Mexico Southeast","MXT",79,7
+"Myanmar","MYA",41,4
+"Namibia","NAM",27,2
+"KwaZulu-Natal","NAT",27,2
+"New Brunswick","NBR",72,7
+"North Carolina","NCA",78,7
+"Nicobar Is.","NCB",41,4
+"North Caucasus","NCS",33,3
+"North Dakota","NDA",74,7
+"Nebraska","NEB",74,7
+"Nepal","NEP",40,4
+"Netherlands","NET",11,1
+"Nevada","NEV",76,7
+"Norfolk Is.","NFK",50,5
+"Newfoundland","NFL",72,7
+"Nigeria","NGA",22,2
+"Niger","NGR",22,2
+"Nicaragua","NIC",80,8
+"Netherlands Antilles","NLA",81,8
+"Nansei-shoto","NNS",38,3
+"Norway","NOR",10,1
+"Nauru","NRU",60,6
+"Nova Scotia","NSC",72,7
+"New South Wales","NSW",50,5
+"Northern Territory","NTA",50,5
+"Niue","NUE",60,6
+"Nunavut","NUN",70,7
+"New Caledonia","NWC",60,6
+"New Guinea","NWG",43,4
+"New Hampshire","NWH",75,7
+"New Jersey","NWJ",75,7
+"New Mexico","NWM",77,7
+"Northwest Territories","NWT",70,7
+"New York","NWY",75,7
+"New Zealand North","NZN",51,5
+"New Zealand South","NZS",51,5
+"Free State","OFS",27,2
+"Ogasawara-shoto","OGA",38,3
+"Ohio","OHI",75,7
+"Oklahoma","OKL",74,7
+"Oman","OMA",35,3
+"Ontario","ONT",72,7
+"Oregon","ORE",73,7
+"Pakistan","PAK",40,4
+"Palestine","PAL",34,3
+"Panama","PAN",80,8
+"Paraguay","PAR",85,8
+"Prince Edward I.","PEI",72,7
+"Pennsylvania","PEN",75,7
+"Peru","PER",83,8
+"Philippines","PHI",42,4
+"Phoenix Is.","PHX",60,6
+"Pitcairn Is.","PIT",61,6
+"Poland","POL",11,1
+"Portugal","POR",12,1
+"Primorye","PRM",31,3
+"Puerto Rico","PUE",81,8
+"Queensland","QLD",50,5
+"Québec","QUE",72,7
+"Réunion","REU",29,2
+"Rhode I.","RHO",75,7
+"Rodrigues","ROD",29,2
+"Romania","ROM",13,1
+"Central European Russia","RUC",14,1
+"East European Russia","RUE",14,1
+"North European Russia","RUN",14,1
+"South European Russia","RUS",14,1
+"Northwest European Russia","RUW",14,1
+"Rwanda","RWA",23,2
+"Sakhalin","SAK",31,3
+"Samoa","SAM",60,6
+"Sardegna","SAR",12,1
+"Saskatchewan","SAS",71,7
+"Saudi Arabia","SAU",35,3
+"South Carolina","SCA",78,7
+"Society Is.","SCI",61,6
+"South China Sea","SCS",41,4
+"Santa Cruz Is.","SCZ",60,6
+"South Dakota","SDA",74,7
+"Selvagens","SEL",21,2
+"Senegal","SEN",22,2
+"Seychelles","SEY",29,2
+"South Georgia","SGE",90,9
+"Sicilia","SIC",13,1
+"Sierra Leone","SIE",22,2
+"Sinai","SIN",34,3
+"South Australia","SOA",50,5
+"Socotra","SOC",24,2
+"Solomon Is.","SOL",43,4
+"Somalia","SOM",24,2
+"Spain","SPA",12,1
+"Sri Lanka","SRL",40,4
+"South Sandwich Is.","SSA",90,9
+"St.Helena","STH",28,2
+"Sudan","SUD",24,2
+"Sulawesi","SUL",42,4
+"Sumatera","SUM",42,4
+"Surinam","SUR",82,8
+"Svalbard","SVA",10,1
+"Southwest Caribbean","SWC",81,8
+"Sweden","SWE",10,1
+"Switzerland","SWI",11,1
+"Swaziland","SWZ",27,2
+"Taiwan","TAI",38,3
+"Tanzania","TAN",25,2
+"Tasmania","TAS",50,5
+"Turks-Caicos Is.","TCI",81,8
+"Transcaucasus","TCS",33,3
+"Tristan da Cunha","TDC",90,9
+"Tennessee","TEN",78,7
+"Texas","TEX",77,7
+"Thailand","THA",41,4
+"Turkmenistan","TKM",32,3
+"Togo","TOG",22,2
+"Tokelau-Manihiki","TOK",60,6
+"Tonga","TON",60,6
+"Trinidad-Tobago","TRT",81,8
+"Tuamotu","TUA",61,6
+"Tubuai Is.","TUB",61,6
+"Turkey-in-Europe","TUE",13,1
+"Tunisia","TUN",20,2
+"Turkey","TUR",34,3
+"Tuvalu","TUV",60,6
+"Tuva","TVA",30,3
+"Northern Provinces","TVL",27,2
+"Tadzhikistan","TZK",32,3
+"Uganda","UGA",25,2
+"Ukraine","UKR",14,1
+"Uruguay","URU",85,8
+"Utah","UTA",76,7
+"Uzbekistan","UZB",32,3
+"Vanuatu","VAN",60,6
+"Venezuela","VEN",82,8
+"Vermont","VER",75,7
+"Victoria","VIC",50,5
+"Vietnam","VIE",41,4
+"Venezuelan Antilles","VNA",81,8
+"Virginia","VRG",78,7
+"Wake I.","WAK",62,6
+"Wallis-Futuna Is.","WAL",60,6
+"Washington","WAS",73,7
+"Western Australia","WAU",50,5
+"District of Columbia","WDC",78,7
+"West Himalaya","WHM",40,4
+"Windward Is.","WIN",81,8
+"Wisconsin","WIS",74,7
+"Western Sahara","WSA",20,2
+"West Siberia","WSB",30,3
+"West Virginia","WVA",75,7
+"Wyoming","WYO",73,7
+"Christmas I.","XMS",42,4
+"Yakutskiya","YAK",30,3
+"Yemen","YEM",35,3
+"Yugoslavia","YUG",13,1
+"Yukon","YUK",70,7
+"Zaïre","ZAI",23,2
+"Zambia","ZAM",26,2
+"Zimbabwe","ZIM",26,2
