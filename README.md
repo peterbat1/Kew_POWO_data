@@ -21,7 +21,7 @@ Sending the proper request to the Kew Gardens web server returns a standard web 
 
 The taxonomic names used by Kew Gardens does't always agree with other sources of plant names. This is not Kew Garden's "fault" but a commonly encountered problem in ecoinformatics. Taxonomists must make decisions about which species dpoefiniton to accpet and which name amongst competing candidate published names should be applied in a given situation. To allow others to make follow-up decisions, taxonomists and plant name authorities inlude lists of plant name they judge to be alternatives to their selected "accepted name". This list is referred to as a "synonymy", and if the name you accept is listed as a synonym, you can confidently associate the data supplied by that authority with your preferred name.
 
-> This script does not deal with the issue of resolving synonyms. You will need to manually untangle any name not accepted by Kew Gasrdens when the script returns a message of "Name is not accepted by POWO". 
+> This script does not deal with the issue of resolving synonyms. You will need to manually untangle any name not accepted by Kew Gardens when the script places a message of "Name is not accepted by POWO" on the _R_ console, and returns a list with empty elements. 
 
 Information on synonymns is provided by Kew Gardens POWO webspages not parsed by the script, and from other name authorities such as GBIF, the International Plant Name Index, and for taxa present in Australia, ALA. The _R_-packages _rgibf_ and _galah_ provide tools to gather such information too.
 
