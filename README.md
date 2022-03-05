@@ -5,7 +5,7 @@ Extract data on plant species distribution form  Kew Gardens' Plants of the Worl
 
 Studies of the global distribution of plants require good data on the current distribtuion of plant species. It is particularly important to distiguish between the "natural" or native distirbution of a species, and the "unnatural", non-native distribution.
 
-Kew Gardens maintains a database of plant species which includes information on the native and non-native distribution of those species. However, they do not provide an Applicaiont PRogramming Interface or API. The web serivce allows you to develop and applicaiton which can send well-strucutured queries to the server and receive formatted data in repsonse. Examples of this kind of serfvice in ecoinformatiocs are the Global Biodiversity Information Facility (GBIF) and the closely-linked Atlas of Living Australia (ALA). To find out more about this kind of service, I recommend the API documentation provided by ALA which is found [here](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) with full service documentation [here](https://api.ala.org.au/).
+Kew Gardens maintains a database of plant species which includes information on the native and non-native distribution of those species. However, they do not provide an Application Programming Interface or API. The web serivce allows you to develop and applicaiton which can send well-strucutured queries to the server and receive formatted data in repsonse. Examples of this kind of serfvice in ecoinformatiocs are the Global Biodiversity Information Facility (GBIF) and the closely-linked Atlas of Living Australia (ALA). To find out more about this kind of service, I recommend the API documentation provided by ALA which is found [here](https://support.ala.org.au/support/solutions/articles/6000196777-ala-api-how-to-access-ala-web-services) with full service documentation [here](https://api.ala.org.au/).
 
 Finally, the motivation for developing this script was to assist colleagues gather data on the native and non-native distribution of a list of plant species from the POWO website in an convenient and easily-repeated manner. 
 
@@ -44,6 +44,6 @@ if ((ans$nativeCodes != "") & (ans$non_nativeCodes != ""))
 
 Note that the script requires that the _R_-package _httr_ and its dependencies are available in your local _R_ installation.
 
-Finally, the information returned is the three-letter acronym for a region listed inthe Taxonomic Database Working Group (TDWG) Level-3 names. A look-up table in CSV-format is included in this repository.
+Finally, the information returned is the three-letter acronym for a region listed in the Taxonomic Database Working Group (TDWG) Level-3 names data set. A look-up table in CSV-format is included in this repository.
 
 
