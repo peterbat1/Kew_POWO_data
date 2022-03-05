@@ -42,6 +42,8 @@ if ((ans$nativeCodes != "") & (ans$non_nativeCodes != ""))
 
 ```
 
-Note that the script requires that the _R_-package _httr_ and its dependencies are available in your local _R_ isntallation.
+Note that the script requires that the _R_-package _httr_ and its dependencies are available in your local _R_ installation.
+
+Finally, the information returned is the three-letter acronym for a region listed inthe Taxonomic Database Working Group (TDWG) Level-3 names. A look-up table in CSV-format is included in this repository.
 
 
