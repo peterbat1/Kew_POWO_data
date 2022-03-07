@@ -23,7 +23,7 @@ The taxonomic names used by Kew Gardens does't always agree with other sources o
 
 > This script does not deal with the issue of resolving synonyms. You will need to manually untangle any name not accepted by Kew Gardens when the script places a message of "Name is not accepted by POWO" on the _R_ console, and returns a list with empty elements. 
 
-Information on synonymns is provided by Kew Gardens POWO webspages not parsed by the script, and from other name authorities such as GBIF, the International Plant Name Index, and for taxa present in Australia, ALA. The _R_-packages _rgibf_ and _galah_ provide tools to gather such information too.
+Information on synonymns is provided by Kew Gardens POWO webspages not parsed by the script, and from other name authorities such as GBIF, ALA for taxa present in Australia, and the [International Plant Name Index](https://www.ipni.org/), which combines data from many sources including GBIF and ALA. The _R_-packages _rgibf_ and _galah_ provide tools to gather such information too.
 
 # Suggested usage
 
@@ -44,6 +44,6 @@ if ((ans$nativeCodes != "") & (ans$non_nativeCodes != ""))
 
 Note that the script requires that the _R_-package _httr_ and its dependencies are available in your local _R_ installation.
 
-Finally, the information returned is the three-letter acronym for a region listed in the Taxonomic Database Working Group (TDWG) Level-3 names data set. A look-up table in CSV-format is included in this repository.
+Finally, the information returned is the three-letter acronym for a region listed in the Taxonomic Database Working Group (TDWG) Level-3 names data set. A look-up table in CSV-format is included in this repository. This table was extrated from the data set available [here](https://github.com/tdwg/wgsrpd).
 
 
