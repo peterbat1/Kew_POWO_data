@@ -44,6 +44,6 @@ if ((ans$nativeCodes != "") & (ans$non_nativeCodes != ""))
 
 Note that the script requires that the _R_-package _httr_ and its dependencies are available in your local _R_ installation.
 
-Finally, the information returned is the three-letter acronym for a region listed in the Taxonomic Database Working Group (TDWG) Level-3 names data set. A look-up table in CSV-format is included in this repository. This table was extrated from the data set available [here](https://github.com/tdwg/wgsrpd).
+Finally, the information returned is the three-letter acronym for a region listed in the Taxonomic Database Working Group (TDWG) Level-3 names data set. A look-up table in CSV-format is included in this repository. This table was extrated from the data set available [here](https://github.com/tdwg/wgsrpd). It is a fairly straight-forward task in _R_ to convert the 3-letter acronyms into full taxt names.
 
 
